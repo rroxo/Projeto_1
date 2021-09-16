@@ -1,0 +1,2 @@
+"","kappa","spec_sens","no_omission","prevalence","equal_sens_spec","sensitivity","species_name","algorithm","run","partition","presencenb","absencenb","correlation","pvaluecor","AUC","AUC_pval","AUCratio","pROC","pROC_pval","TSSmax","KAPPAmax","dismo_threshold","prevalence.value","PPP","NPP","TPR","TNR","FPR","FNR","CCR","Kappa","F_score","Jaccard"
+"thresholds",0.7158728,0.7158728,0.7158728,0.26482492,0.7158728,0.7159728,Philcoxia_bahiensis,"maxnet",1,2,1,5,0.780380029307512,0.0670529397862708,1,NA,2,NA,NA,1,1,"spec_sens",0.166666666666667,1,1,1,1,0,0,1,1,1,1
