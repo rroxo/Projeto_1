@@ -71,7 +71,7 @@ setup_sdmdata_1 <- setup_sdmdata(species_name = unique(sp_input[1]),
               sample_proportion = 0.5,
               cutoff = 0.7)
 
-####
+#####
 
 
 
