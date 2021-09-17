@@ -31,7 +31,7 @@ lista_arquivos <- list.files("./dados/raster/variaveis_cortadas_pratica/", full.
 
 vars_stack <-stack(lista_arquivos)
 
-## Usando a função final_model para "unir" as partições geradas por algoritmos em do_any e do_many
+## Usando a função ensemble_model para "unir" as partições geradas por algoritmos em do_any e do_many
 
 ens <- ensemble_model(
   species_name = unique(sp_input[1]),
