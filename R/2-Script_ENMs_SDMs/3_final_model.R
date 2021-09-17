@@ -4,7 +4,7 @@
 # modler version 0.0.1
 ###################################
 
-## Carregague as bibliotecas instaladas----------------------------------------- 
+## Carregague as bibliotecas instaladas------------------------------------------ 
 
 library(sp)
 library(modleR)
